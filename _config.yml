@@ -7,15 +7,14 @@ title: Note for Mathieu
 description: Personal website 
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/Mathieu"
+baseurl: "/Patrick"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Mathieu
+username: Patrick
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: The one thing that impresses me is your energetic motivation towards projects and the creative ideas you come up with. I am very grateful for your guidance over the last five years.
-#
+typing_text: your unwavering guidance and insightful mentorship have not only shaped this thesis but also profoundly influenced my journey as a researcher and individual. Thank you for everything.
 # email: Your E-Mail address for the email button.
 email: todarwal@kth.se
 # For every social button you want to display, set your username or userid
