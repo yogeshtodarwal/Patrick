@@ -1,0 +1,54 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+
+- title: KTH Royal Institute of Technology (Sweden)
+  title-url: https://www.kth.se/en
+  date: Dec 2018 - Feb 2024
+  subtitle: PhD in Theoretical Chemistry and Biology
+  timeline-side: left
+
+- title: Indian Institute of Technology Bombay (India)
+  title-url: https://www.iitb.ac.in/
+  date: Jul 2013 - Mar 2018
+  subtitle: Integrated M.Sc. in Chemistry
+  timeline-side: left
+
+
+- title: Indian Institute of Technology Bombay (India)
+  title-url: https://www.iitb.ac.in/
+  date: Mar 2018 - Aug 2018
+  subtitle: Research Assistant
+  timeline-side: right
+
+- title: Radboud University (Netherland)
+  title-url: https://www.ru.nl/en
+  date: May 2016 - Jul 2016
+  subtitle: Computational Chemist as Intern
+  tags:
+    - tag: Gaussian
+    - tag: Python
+    - tag: Spartan
+  timeline-side: right
+
+- title: Indian Institute of Technology Bombay (India)
+  title-url: https://www.iitb.ac.in/
+  date: Jul 2015 - May 2018
+  subtitle: Junior Researcher
+  timeline-side: right
